@@ -1,0 +1,11 @@
+/Users/maximemerlin/Projects/TestK/TestK/obj/Debug/TestK.csprojAssemblyReference.cache
+/Users/maximemerlin/Projects/TestK/TestK/obj/Debug/TestK.csproj.CoreCompileInputs.cache
+/Users/maximemerlin/Projects/TestK/TestK/bin/Debug/TestK.exe
+/Users/maximemerlin/Projects/TestK/TestK/bin/Debug/TestK.pdb
+/Users/maximemerlin/Projects/TestK/TestK/obj/Debug/TestK.exe
+/Users/maximemerlin/Projects/TestK/TestK/obj/Debug/TestK.pdb
+C:\Users\heloi\source\repos\TestK\TestK\bin\Debug\TestK.exe
+C:\Users\heloi\source\repos\TestK\TestK\bin\Debug\TestK.pdb
+C:\Users\heloi\source\repos\TestK\TestK\obj\Debug\TestK.csprojAssemblyReference.cache
+C:\Users\heloi\source\repos\TestK\TestK\obj\Debug\TestK.exe
+C:\Users\heloi\source\repos\TestK\TestK\obj\Debug\TestK.pdb
